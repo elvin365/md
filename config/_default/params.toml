@@ -4,7 +4,7 @@
 title = "Doks"
 titleSeparator = "-"
 titleAddition = "Elvin"
-description = "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
+description = "software dev"
 
 ## Open Graph
 images = ["doks.png"]
