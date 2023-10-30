@@ -1,6 +1,18 @@
+ <style>
+    .flex-container {
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+    }
+    .content {
+      flex: 1 0 auto;
+    }
+    .footer {
+      flex-shrink: 0;
+    }
+    </style>
+<div class="flex-container">
 <footer class="footer text-muted">
-  <div style="height: 200px;">
-
   <div class="container">
     <div class="row">
       <div class="col-lg-8 order-last order-lg-first">
@@ -17,5 +29,5 @@
       </div>
     </div>
   </div>
-  </div>
 </footer>
+</div>
