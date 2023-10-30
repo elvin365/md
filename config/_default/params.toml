@@ -50,7 +50,7 @@ portraitPhotoWidths = [800, 700, 600, 500]
 lqipWidth = "20x"
 
 # Footer
-footer = "Powered by me</a>"
+footer = "Powered by me"
 
 # Feed
 copyRight = "Copyright (c) 2022-2023 Elvin Gasanov"
