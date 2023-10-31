@@ -13,6 +13,7 @@ contributors: ["Elvin Gasanov"]
 The Chinese Remainder Theorem Example is used to blablabla
 
 ### Example
+We'll be trying
 ```
 x=7 (mod 11)
 x=22 (mod 43)
