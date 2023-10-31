@@ -9,9 +9,11 @@ weight: 50
 images: ["say-hello-to-doks.png"]
 contributors: ["Elvin Gasanov"]
 ---
+<hr>
 ### Overview
 The Chinese Remainder Theorem Example is used to blablabla
 
+<hr>
 ### Example
 We'll be trying
 $$ 
