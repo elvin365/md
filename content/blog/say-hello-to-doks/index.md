@@ -1,7 +1,7 @@
 ---
 title: "🐉Chinese Remainder Theorem Example🀄"
 description: "Chinese Remainder Theorem Example"
-lead: "Introducing Doks, a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default22."
+lead: "In this example I'd like to illistate a problem solving example"
 date: 2020-11-04T09:19:42+01:00
 lastmod: 2020-11-04T09:19:42+01:00
 draft: false
