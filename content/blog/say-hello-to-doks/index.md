@@ -12,12 +12,3 @@ contributors: ["Elvin Gasanov"]
 <hr>
 ### Overview
 The Chinese Remainder Theorem Example is used to blablabla
-
-<hr>
-### Example
-We'll be trying
-$$ 
-x=7 (mod 11)
-x=22 (mod 43)
-x=17 (mod 19)
-$$
