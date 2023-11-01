@@ -9,10 +9,10 @@ weight: 50
 images: ["say-hello-to-doks.png"]
 contributors: ["Elvin Gasanov"]
 ---
-   <script
-     src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
-     type="text/javascript">
-   </script>
+   <script type="text/javascript" id="MathJax-script" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.0/es5/tex-mml-chtml.js">
+</script>
+
 
 <hr>
 
@@ -27,5 +27,7 @@ Using a keystroke injection tool called the, I created a payload that demonstrat
 Say we have this as an example:
 
 $$
-x = 7 (mod 11)\\ x = 22 (mod 43)\\ x = 17 (mod 19)
+x = 7 (mod 11)\\
+x = 22 (mod 43)\\
+x = 17 (mod 19)\\
 $$
