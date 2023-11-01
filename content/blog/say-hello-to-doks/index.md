@@ -24,6 +24,10 @@ I created a simple proof-of-concept using an online tool called, to demonstrate 
 
 Using a keystroke injection tool called the, I created a payload that demonstrates this sneaky attack in seconds - but if you dont have one, you can still practice the exfiltration techniques with your web browser.
 
-The Cauchy-Schwarz Inequality:
+Say we have this as an example:
 
-$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
+$$
+x=7 (mod 11)
+x=22 (mod 43)
+x=17 (mod 19)
+$$
