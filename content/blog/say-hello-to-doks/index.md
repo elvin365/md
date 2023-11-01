@@ -9,6 +9,10 @@ weight: 50
 images: ["say-hello-to-doks.png"]
 contributors: ["Elvin Gasanov"]
 ---
+   <script
+     src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+     type="text/javascript">
+   </script>
 
 <hr>
 
