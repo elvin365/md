@@ -33,4 +33,18 @@ $$x\equiv 7\(mod 11)$$
 $$x\equiv 22\(mod 43)$$
 $$x\equiv 17\(mod 19)$$
 
-So the \\(E=mc^2\\) tahts' it
+So let's name the coefficients \\(a_1=7\\), \\(a_2=22\\), \\(a_3=17\\)
+
+and \\(n_1=11\\), \\(n_2=43\\), \\(n3_3=19\\)
+
+Now it's time to check if each \\n_i\\ is pairwise coprime using :
+
+$$GCD(11,43)=1$$
+$$GCD(11,19)=1$$
+$$GCD(43,19)=1$$
+
+since all gcd is \\1\\, so each \\n_i\\ is pairwise coprime
+
+So there is a unique solution modulo \\N\\:
+
+$$N=n_1\cdot\n_2\cdotn_3=11*43*19=8987$$
