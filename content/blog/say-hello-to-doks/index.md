@@ -37,7 +37,7 @@ So let's name the coefficients \\(a_1=7\\), \\(a_2=22\\), \\(a_3=17\\)
 
 and \\(n_1=11\\), \\(n_2=43\\), \\(n3_3=19\\)
 
-Now it's time to check if each \\(n_i\\) is pairwise coprime using :
+Now it's time to check if each `\\(n_i\\)` is pairwise coprime using :
 
 $$GCD(11,43)=1$$
 $$GCD(11,19)=1$$
