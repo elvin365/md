@@ -26,9 +26,9 @@ Using a keystroke injection tool called the, I created a payload that demonstrat
 
 <hr>
 
-###Example 
+### Example
 
-Say, we have a system of equation example:
+Say, we have a system of equations example:
 
 $$x\equiv 7\(mod 11)$$
 $$x\equiv 22\(mod 43)$$
