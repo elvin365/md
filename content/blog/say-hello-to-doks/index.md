@@ -33,4 +33,3 @@ x = 22 \mod 43, \\
 x = 17 \mod 19.
 \end{array}
 $$
-
