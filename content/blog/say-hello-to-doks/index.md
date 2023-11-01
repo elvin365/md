@@ -24,8 +24,12 @@ I created a simple proof-of-concept using an online tool called, to demonstrate 
 
 Using a keystroke injection tool called the, I created a payload that demonstrates this sneaky attack in seconds - but if you dont have one, you can still practice the exfiltration techniques with your web browser.
 
-Say we have this as an example:
+###Example 
+
+Say, we have a system of equation example:
 
 $$x\equiv 7\(mod 11)$$
 $$x\equiv 22\(mod 43)$$
 $$x\equiv 17\(mod 19)$$
+
+So the $a_1=7$, $a_2=22$, $a_3=17$ tahts' it 
