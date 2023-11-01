@@ -28,6 +28,8 @@ Say we have this as an example:
 
 $$
 x=7 (mod 11)
+
 x=22 (mod 43)
+
 x=17 (mod 19)
 $$
