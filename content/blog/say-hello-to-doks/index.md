@@ -9,26 +9,10 @@ weight: 50
 images: ["say-hello-to-doks.png"]
 contributors: ["Elvin Gasanov"]
 ---
-<script>
-  MathJax = {
-    tex: {
-      inlineMath: [['$', '$'], ['\\(', '\\)']],
-      displayMath: [['$$','$$'], ['\\[', '\\]']],
-      processEscapes: true,
-      processEnvironments: true
-    },
-    options: {
-      skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre']
-    }
-  };
-  window.addEventListener('load', (event) => {
-      document.querySelectorAll("mjx-container").forEach(function(x){
-        x.parentElement.classList += 'has-jax'})
-    });
-</script>
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script type="text/javascript" id="MathJax-script" async
-  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+   <script
+     src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+     type="text/javascript">
+   </script>
 
 <hr>
 
@@ -42,6 +26,9 @@ Using a keystroke injection tool called the, I created a payload that demonstrat
 
 Say we have this as an example:
 
-'''
-x=5 (mod 11)
-'''
+```
+$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
+x = 5 (mod 11)
+x = 5 (mod 11)
+x = 5 (mod 11)
+```
