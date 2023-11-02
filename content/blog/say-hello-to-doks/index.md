@@ -43,8 +43,12 @@ $$GCD(11,43)=1$$
 $$GCD(11,19)=1$$
 $$GCD(43,19)=1$$
 
-since all gcd is \\(1\\), so each \\(n_i\\) is pairwise coprime
+since all gcd is \\(1\\), so each \\(n_i\\) is pairwise coprime.
 
 So there is a unique solution modulo \\(N\\):
 
 $$N=n_1 \cdot n_2 \cdot n_3=11\cdot43\cdot19=8987$$
+
+***Step-1:
+
+Using the equasion \\(z_i=N\frac n_i\\)
