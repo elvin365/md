@@ -49,6 +49,6 @@ So there is a unique solution modulo \\(N\\):
 
 $$N=n_1 \cdot n_2 \cdot n_3=11\cdot43\cdot19=8987$$
 
-***Step-1:
+**Step-1**:
 
-Using the equasion \\(z_i=N\frac n_i\\)
+Using the equasion \\(z_i=\frac{N}{n_i}\\)
