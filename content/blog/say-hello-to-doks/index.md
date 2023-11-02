@@ -65,7 +65,7 @@ $$y_1 \equiv z_1^{-1} \(mod n_1)=817^{-1}\(mod 11)=3^{-1}\(mod 11)=4(mod 11)$$
 $$y_2 \equiv z_2^{-1} \(mod n_2)=209^{-1}\(mod 43)=37^{-1}\(mod 43)=7(mod 43)$$
 $$y_3 \equiv z_3^{-1} \(mod n_3)=473^{-1}\(mod 19)=17^{-1}\(mod 19)=9(mod 19)$$
 
-**Step-2**:
+**Step-3**:
 
 $$x\equiv a_1 \cdot y_1 \cdot z_1 + a_2 \cdot y_2 \cdot z_2 + a_3 \cdot y_3 \cdot z_3 \(mod 8987)$$
 
@@ -74,3 +74,5 @@ $$x\equiv 7 \cdot 4 \cdot 817 + 22 \cdot 7 \cdot 209 + 17 \cdot 9 \cdot 473 \(mo
 $$x\equiv 22876 + 32186 + 72369 \(mod 8987)$$
 $$x\equiv 127431 \(mod 8987)$$
 $$x\equiv 1613 \(mod 8987)$$
+
+And here we have it - the solution, which is unique modulo 8987
