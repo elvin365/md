@@ -51,4 +51,12 @@ $$N=n_1 \cdot n_2 \cdot n_3=11\cdot43\cdot19=8987$$
 
 **Step-1**:
 
-Using the equasion \\(z_i=\frac{N}{n_i}\\)
+Using the equasion \\(z_i=\frac{N}{n_i}\\) we have the following:
+
+$$z_1=\frac{N}{n_1}=\frac{8987}{11}=817$$
+$$z_2=\frac{N}{n_2}=\frac{8987}{43}=209$$
+$$z_3=\frac{N}{n_3}=\frac{8987}{19}=473$$
+
+**Step-2**:
+
+Now we have
