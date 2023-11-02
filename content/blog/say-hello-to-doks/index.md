@@ -29,9 +29,9 @@ Using a keystroke injection tool called the, I created a payload that demonstrat
 
 Say, we have a system of equations example:
 
-$$x\equiv 7\(mod \,11)$$
-$$x\equiv 22\(mod \,43)$$
-$$x\equiv 17\(mod \,19)$$
+$$x\equiv 7\(mod \11)$$
+$$x\equiv 22\(mod \43)$$
+$$x\equiv 17\(mod \19)$$
 
 So let's name the coefficients \\(a_1=7\\), \\(a_2=22\\), \\(a_3=17\\)
 
@@ -59,4 +59,4 @@ $$z_3=\frac{N}{n_3}=\frac{8987}{19}=473$$
 
 **Step-2**:
 
-Now let's find \\(y_i \equiv z_i^{-1} \(mod \n_i)\\) usin :
+Now let's find \\(y_i \equiv z_i^{-1} \(mod \n_i)\\) usin z_i^{-1} \, \text{mod} \, 7:
