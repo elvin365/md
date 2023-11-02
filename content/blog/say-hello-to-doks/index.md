@@ -61,4 +61,6 @@ $$z_3=\frac{N}{n_3}=\frac{8987}{19}=473$$
 
 Now let's find \\(y_i \equiv z_i^{-1} \(mod n_i)\\) of each entry:
 
-$$y_i \equiv z_i^{-1} \(mod n_i)=817^{-1}\(mod 11)=3^{-1}\(mod 11)=4(mod 11)$$
+$$y_1 \equiv z_1^{-1} \(mod n_1)=817^{-1}\(mod 11)=3^{-1}\(mod 11)=4(mod 11)$$
+$$y_2 \equiv z_2^{-1} \(mod n_2)=209^{-1}\(mod 43)=37^{-1}\(mod 43)=7(mod 43)$$
+$$y_3 \equiv z_3^{-1} \(mod n_3)=473^{-1}\(mod 19)=17^{-1}\(mod 19)=9(mod 19)$$
