@@ -17,11 +17,7 @@ contributors: ["Elvin Gasanov"]
 
 ### Overview
 
-If you're just getting started with data exfiltration, it might not be practical to set up an entire webserver or local environment just to try out some simple techniques, like web request exfiltration.
-
-I created a simple proof-of-concept using an online tool called, to demonstrate how simple it is to remotely exfiltrate a Linux password using a single command.
-
-Using a keystroke injection tool called the, I created a payload that demonstrates this sneaky attack in seconds - but if you dont have one, you can still practice the exfiltration techniques with your web browser.
+The Chinese remainder theorem states that whenever we have an unknown number, but we know its remainders when divided by a few coprime integers, we can find what that number is.
 
 <hr>
 
