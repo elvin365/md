@@ -19,6 +19,10 @@ contributors: ["Elvin Gasanov"]
 
 The Chinese remainder theorem states that whenever we have an unknown number, but we know its remainders when divided by a few coprime integers, we can find what that number is.
 
+Basically, we are given some numbers which are pairwise coprime, and given remainders when an unknown number x is divided by them.
+
+We need to find the minimum possible value of x that produces given remainders.
+
 <hr>
 
 ### Example
@@ -31,7 +35,7 @@ $$x\equiv 17\(mod 19)$$
 
 So let's name the remainder \\(a_1=7\\), \\(a_2=22\\), \\(a_3=17\\)
 
-and dividers \\(n_1=11\\), \\(n_2=43\\), \\(n_3=19\\)
+and divisor \\(n_1=11\\), \\(n_2=43\\), \\(n_3=19\\)
 
 Now it's time to check if each \\(n_i\\) is pairwise coprime using :
 
