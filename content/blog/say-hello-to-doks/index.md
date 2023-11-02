@@ -59,6 +59,4 @@ $$z_3=\frac{N}{n_3}=\frac{8987}{19}=473$$
 
 **Step-2**:
 
-Now let's find \\(y_i \equiv z_i^{-1} \(mod \n_i)\\) usin \\(z_i^{-1} \, \text{mod} \, 7\\):
-
-$$z_i^{-1} \, \text{mod} \, 7$$
+Now let's find \\(y_i \equiv z_i^{-1} \(mod \n_i)\\) usin :
